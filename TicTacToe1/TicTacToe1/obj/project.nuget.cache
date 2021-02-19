@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VmEIjXclbnrN0Gcj1K8paLIEUVcRvyOMJj5vd70FsYhgW+9DBBUBWZ9x6T6LSi8x0Lrlgf5ddBRhU6e/144A3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmr59\\Desktop\\TicTacToe1\\TicTacToe1\\TicTacToe1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmr59\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
