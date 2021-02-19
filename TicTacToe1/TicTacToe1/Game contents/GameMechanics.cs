@@ -26,7 +26,6 @@ namespace TicTacToe1
         public enum WinState
         {
             NoOneWins = 0,
-            Draw = -2,
             XWins = 6,
             OWins = 7
         }
