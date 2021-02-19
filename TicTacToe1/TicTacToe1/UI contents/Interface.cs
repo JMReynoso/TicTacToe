@@ -59,7 +59,7 @@ namespace TicTacToe1
                     Console.WriteLine("Resetting board...\n");
                     game.ResetBoard();
                 }
-                else if (winningCode == (int) GameMechanics.WinState.Draw)
+                else if ((winningCode == (int) GameMechanics.WinState.NoOneWins) && game.IsBoardFull())
                 {
                     Console.WriteLine("\nDRAW!");
                     Console.WriteLine("X win count: {0}", game.PlayerX.getWinCount());
